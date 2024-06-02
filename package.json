@@ -1,0 +1,25 @@
+{
+  "name": "hyper-decoratetabs",
+  "version": "0.0.1",
+  "description": "Decorate your hyper terminal tabs with color, image or emoji",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acemtp/hyper-decoratetabs.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-plugin",
+    "hyperterm",
+    "tabs",
+    "tab"
+  ],
+  "author": "Vianney Lecroart <acemtp@gmail.com> (https://github.com/acemtp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acemtp/hyper-decoratetabs/issues"
+  },
+  "homepage": "https://github.com/acemtp/hyper-decoratetabs#readme",
+  "dependencies": {
+  }
+}
